@@ -1,4 +1,5 @@
-baseURL: "https://janawa.de"
+# baseURL: "https://janawa.de"
+baseURL: "https://stedel.de/janawa.de"
 title: "Janawa e. V."
 languageCode: de-DE
 theme: "PaperMod"
