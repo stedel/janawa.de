@@ -4,6 +4,7 @@ title: "Unsere Öffnungszeiten"
 draft: false
 tags: [Allgemeines]
 weight: -10
+aliases: ['/öffnungszeiten']
 ---
 
 - Montag:                 13:30 - 18:30

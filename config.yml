@@ -70,8 +70,10 @@ params:
         url: posts
       - name: Informationen
         url: tags/allgemeines
+      - name: Öffnungszeiten
+        url: öffnungszeiten
       - name: Über den Verein
-        url: ueber-den-verein
+        url: über-den-verein
 
   # home-info mode
   homeInfoParams:
@@ -79,13 +81,13 @@ params:
     Title: "Janawa e. V."
     Content: "Der Jugendtreff für alle Kids von 12 - 18 Jahre \U0001F44B"
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+  # socialIcons:
+  #   - name: twitter
+  #     url: "https://twitter.com/"
+  #   - name: stackoverflow
+  #     url: "https://stackoverflow.com"
+  #   - name: github
+  #     url: "https://github.com/"
 
   # analytics:
   #   google:
@@ -104,7 +106,7 @@ params:
 
 
   editPost:
-    URL: "https://github.com/stedel/janawa.de/content/"
+    URL: "https://github.com/stedel/janawa.de/content"
     Text: "Änderungen vorschlagen" # edit text
     appendFilePath: true # to append file path to Edit link
 
