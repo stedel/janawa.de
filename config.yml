@@ -1,5 +1,4 @@
-# baseURL: "https://janawa.de"
-baseURL: "https://stedel.de/janawa.de"
+baseURL: "https://janawa.stedel.de"
 title: "Janawa e. V."
 languageCode: de-DE
 theme: "PaperMod"
@@ -46,7 +45,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "images/favicon.ico"
+    favicon: "./images/favicon.ico"
     # favicon16x16: "<link / abs url>"
     # favicon32x32: "<link / abs url>"
     # apple_touch_icon: "<link / abs url>"
@@ -54,7 +53,7 @@ params:
 
   label:
     text: "Home"
-    icon: /images/logo.jpg
+    icon: ./images/logo.jpg
     iconHeight: 40
 
   # profile-mode
