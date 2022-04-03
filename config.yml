@@ -1,0 +1,146 @@
+baseURL: "https://janawa.de"
+title: "Janawa e. V."
+languageCode: de-DE
+theme: "PaperMod"
+
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Janawa e. V."
+  description: "Jugendarbeit Nahbereich Wacken"
+  keywords: [Blog, PaperMod, Janawa e. V., Jugendarbeit Nahbereich Wacken]
+  # author: Me
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2. January 2006"
+  languageAltTitle: "Deutsch"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "images/favicon.ico"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /images/logo.jpg
+    iconHeight: 40
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Janawa e. V."
+    subtitle: "Der Jugendtreff für alle Kids von 12 -18 Jahre"
+    imageUrl: "/images/header.jpg"
+    imageWidth: 880
+    imageHeight: 297
+    imageTitle: jugendraum
+    buttons:
+      - name: Aktuelles
+        url: posts
+      - name: Informationen
+        url: tags/allgemeines
+      - name: Über den Verein
+        url: ueber-den-verein
+
+  # home-info mode
+  homeInfoParams:
+    # only enabled, if profileMode is deactivated
+    Title: "Janawa e. V."
+    Content: "Der Jugendtreff für alle Kids von 12 - 18 Jahre \U0001F44B"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+    linkFullImages: true
+    # responsiveImages: false
+
+
+  editPost:
+    URL: "https://github.com/stedel/janawa.de/content"
+    Text: "Änderungen vorschlagen" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: suche
+      name: Suche
+      url: /Suche/
+      weight: 5
+    # - identifier: kategorien
+    #   name: Kategorien
+    #   url: /categories/
+    #   weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: aktuelles
+      name: Aktuelles
+      url: /posts
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
