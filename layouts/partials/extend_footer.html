@@ -1,0 +1,22 @@
+<footer class="footer">
+    {{- if site.Copyright }}
+    <span>{{ site.Copyright | markdownify }}</span>
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    {{- end }}
+
+    <span>
+        Made with ❤️by <a href="https://stedel.de" rel="noopener noreferrer" target="_blank">stedel</a>
+    </span>
+    
+    <span>
+        <a href="/impressum">Impressum</a>
+    </span>
+    
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>

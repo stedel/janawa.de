@@ -40,6 +40,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  hideFooter: true # -> extend_footer includes the default footer + more
 
   assets:
     # disableHLJS: true # to disable highlight.js
