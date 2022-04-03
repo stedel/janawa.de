@@ -4,6 +4,7 @@ title: "Impressum"
 draft: false
 url: impresssum
 aliases: ['/impressum']
+disableShare: true
 ---
 
 Verantwortlich:
