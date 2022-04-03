@@ -62,8 +62,8 @@ params:
     title: "Janawa e. V."
     subtitle: "Der Jugendtreff für alle Kids von 12 -18 Jahre"
     imageUrl: "/images/header.jpg"
-    imageWidth: 880
-    imageHeight: 297
+    imageWidth: 440
+    imageHeight: 148
     imageTitle: jugendraum
     buttons:
       - name: Aktuelles
