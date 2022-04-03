@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stedel.de/janawa.de/sitemap.xml
