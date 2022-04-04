@@ -53,7 +53,7 @@ params:
 
   label:
     text: "Home"
-    icon: ./images/logo.jpg
+    icon: ./images/logo.png
     iconHeight: 40
 
   # profile-mode
