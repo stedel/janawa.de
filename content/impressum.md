@@ -7,18 +7,36 @@ aliases: ['/impressum']
 disableShare: true
 ---
 
-Verantwortlich:
-
-Janawa e.V.
-
-Antonio-Jose Julia-Allen
+## Janawa e. V.
 
 Schulstr. 1
 
 25596 Wacken
 
+Telefon: 0171 4509545
 
-Kontakt:
-Telefon: 01714509545
-Telefax: 
 E-Mail: mail@janawa.de
+
+## 1. Vorsitzender
+
+Antonio Jose Julia-Allen
+
+Bokelrehmer str. 35
+
+25596 Wacken
+
+a.allen@trinitas-trading.de
+
+## 2. Vorsitzender
+
+Patrick Jürgen Klawitter
+
+Hauptstrasse
+
+25596 Wacken
+
+<!-- Registergericht: Amtsgericht Stollenhausen
+Registernummer: VR 12345
+
+Umsatzsteuer-Identifikationsnummer:
+DE456789 -->

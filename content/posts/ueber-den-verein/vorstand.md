@@ -8,21 +8,25 @@ tags: [Über den Verein]
 weight: 200
 ---
 
-1. Vorsitzender
+## 1. Vorsitzender
 
-- Antonio Jose Julia-Allen
-- Bokelrehmerstr.35
-- 25596 Wacken
-- a.allen@trinitas-trading.de
+Antonio Jose Julia-Allen
 
-2. Vorsitzender
+Bokelrehmer str. 35
 
-- Patrick Jürgen Klawitter
-- Haupftstrasse
-- 25596 Wacken
+25596 Wacken
 
-Kassenwart
+a.allen@trinitas-trading.de
 
-- Vorname Nachname
-- Anschrift
-- Email-Adresse
+## 2. Vorsitzender
+
+Patrick Jürgen Klawitter
+
+Hauptstrasse
+
+25596 Wacken
+
+<!-- Kassenwart
+    - Vorname Nachname
+    - Anschrift
+    - Email-Adresse -->
