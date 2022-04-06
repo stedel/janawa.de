@@ -2,6 +2,8 @@ baseURL: "https://janawa.de"
 title: "Janawa e. V."
 languageCode: de-DE
 theme: "PaperMod"
+DefaultContentLanguage: "de"
+
 
 enableRobotsTXT: true
 
