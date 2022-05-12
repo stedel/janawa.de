@@ -4,7 +4,6 @@ languageCode: de-DE
 theme: "PaperMod"
 DefaultContentLanguage: "de"
 
-
 enableRobotsTXT: true
 
 minify:
@@ -62,7 +61,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Janawa e. V."
-    subtitle: "Der Jugendtreff für alle Kids von 12 -18 Jahre"
+    subtitle: >
+      **J**ugend**a**rbeit **Na**hbereich **Wa**cken — Der Jugendtreff für alle Kids von 12 - 18 Jahre
     imageUrl: "/images/header.jpg"
     imageWidth: 320
     imageHeight: 108
@@ -81,7 +81,9 @@ params:
   homeInfoParams:
     # only enabled, if profileMode is deactivated
     Title: "Janawa e. V."
-    Content: "Der Jugendtreff für alle Kids von 12 - 18 Jahre \U0001F44B"
+    Content: >
+      **J**ugend**a**rbeit **Na**hbereich **Wa**cken
+      Der Jugendtreff für alle Kids von 12 - 18 Jahre \U0001F44B
 
   # socialIcons:
   #   - name: twitter
@@ -105,7 +107,6 @@ params:
     hiddenInSingle: false # hide on single page
     linkFullImages: true
     # responsiveImages: false
-
 
   editPost:
     URL: "https://github.com/stedel/janawa.de/content"
