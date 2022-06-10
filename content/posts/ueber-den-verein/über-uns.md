@@ -3,7 +3,7 @@ title: "Über Uns"
 # date: 2022-04-03T15:25:02+02:00
 draft: false
 
-aliases: ['/kontakt', '/über-uns']
+aliases: ["/kontakt", "/über-uns"]
 # url: anfahrt
 ShowShareButtons: false
 tags: [Über den Verein]
@@ -28,8 +28,9 @@ Wir bieten an:
 
 ---
 
-### Ansprechpartner:
+### Ansprechpartner
 
-- Anke Schmidt
+{{< figure src="../anke.jpg" class="float-right" align="right" width="33%" title="Anke Schmidt" >}}
+
 - 04827 998513
 - <mail@janawa.de>
