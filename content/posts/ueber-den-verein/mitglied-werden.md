@@ -10,4 +10,4 @@ weight: 500
 
 Sie Interessieren sich für eine Mitgliedschaft in unserem Verein? Dann nehmen Sie Kontakt mit uns auf und informieren Sie sich über unsere Aufnahmebedingungen.
 
-Den [Mitgliedsantrag](/documents/Janawa%20Aufnahmeantrag.pdf) können Sie uns unterschrieben zuschicken oder persönlich [vorbei bringen](../anfahrt).
+Den [Mitgliedsantrag](/documents/Mitgliedsantrag.pdf) können Sie uns unterschrieben zuschicken oder persönlich [vorbei bringen](../anfahrt).
