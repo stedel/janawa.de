@@ -1,6 +1,6 @@
 ---
 title: "Neue Webseite"
-date: 2020-04-06T15:25:02+02:00
+date: 2022-04-06T15:25:02+02:00
 draft: false
 tags: [Allgemeines]
 ---
