@@ -15,17 +15,17 @@ Schulstr. 1
 
 Telefon: 0171 4509545
 
-E-Mail: janawa@wtnet.de
+E-Mail: <janawa@wtnet.de>
 
 ## 1. Vorsitzender
 
 Antonio Jose Julia-Allen
 
-Bokelrehmer str. 35
+Bokelrehmer Str. 35
 
 25596 Wacken
 
-a.allen@trinitas-trading.de
+<a.allen@trinitas-trading.de>
 
 ## 2. Vorsitzender
 
