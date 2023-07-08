@@ -33,4 +33,4 @@ Wir bieten an:
 {{< figure src="../anke.jpg" class="float-right" align="right" width="33%" title="Anke Schmidt" >}}
 
 - 04827 998513
-- <mail@janawa.de>
+- <janawa@wtnet.de>

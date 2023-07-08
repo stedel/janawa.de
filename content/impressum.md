@@ -3,7 +3,7 @@ title: "Impressum"
 # date: 2022-04-03T15:25:02+02:00
 draft: false
 url: impresssum
-aliases: ['/impressum']
+aliases: ["/impressum"]
 disableShare: true
 ---
 
@@ -15,7 +15,7 @@ Schulstr. 1
 
 Telefon: 0171 4509545
 
-E-Mail: mail@janawa.de
+E-Mail: janawa@wtnet.de
 
 ## 1. Vorsitzender
 
