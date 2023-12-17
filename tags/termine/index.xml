@@ -1,76 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Termine on Janawa e. V.</title>
     <link>https://janawa.de/tags/termine/</link>
     <description>Recent content in Termine on Janawa e. V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 07 Jul 2023 15:25:02 +0200</lastBuildDate><atom:link href="https://janawa.de/tags/termine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 15:25:02 +0200</lastBuildDate>
+    <atom:link href="https://janawa.de/tags/termine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Janawa Kickerturnier 2023</title>
       <link>https://janawa.de/posts/2023-08-16-kickerturnier/</link>
       <pubDate>Fri, 07 Jul 2023 15:25:02 +0200</pubDate>
-      
       <guid>https://janawa.de/posts/2023-08-16-kickerturnier/</guid>
       <description>Am 16. August 2023 findet ab 14 Uhr ein Kickerturnier im Jugendraum statt.
 Wir freuen uns auf zahlreiche Mitspieler</description>
     </item>
-    
     <item>
       <title>Urlaub Sommer 2023</title>
       <link>https://janawa.de/posts/2023-07-24-urlaub/</link>
       <pubDate>Fri, 07 Jul 2023 09:25:02 +0200</pubDate>
-      
       <guid>https://janawa.de/posts/2023-07-24-urlaub/</guid>
       <description>Zwischen dem 24. Juli und dem 13. August ist das Team vom Jugendraum im Urlaub, daher bleibt der Jugendraum in dieser Zeit geschlossen.
 In der Woche der Wiedereröffnung findet am 16. August ein Kickerturnier statt.</description>
     </item>
-    
     <item>
       <title>Janawa Kickerturnier</title>
       <link>https://janawa.de/posts/2017-08-22-kickerturnier/</link>
       <pubDate>Tue, 22 Aug 2017 15:25:02 +0200</pubDate>
-      
       <guid>https://janawa.de/posts/2017-08-22-kickerturnier/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Janawa Hansapark</title>
       <link>https://janawa.de/posts/2013-09-hansapark/</link>
       <pubDate>Sat, 07 Sep 2013 15:25:02 +0200</pubDate>
-      
       <guid>https://janawa.de/posts/2013-09-hansapark/</guid>
       <description> </description>
     </item>
-    
     <item>
       <title>Janawa-Stand auf dem W:O:A</title>
       <link>https://janawa.de/posts/2013-08-woa-stand/</link>
       <pubDate>Sat, 03 Aug 2013 15:25:02 +0200</pubDate>
-      
       <guid>https://janawa.de/posts/2013-08-woa-stand/</guid>
       <description> </description>
     </item>
-    
     <item>
       <title>Schicke Shirts und neue Sofas: Buntes Programm im Jugendtreff</title>
       <link>https://janawa.de/posts/2013-07-shirts-und-sofas/</link>
       <pubDate>Thu, 13 Jun 2013 15:25:02 +0200</pubDate>
-      
       <guid>https://janawa.de/posts/2013-07-shirts-und-sofas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Heute im Hamburger Dungeon</title>
       <link>https://janawa.de/posts/2013-04-hamburg-dungeon/</link>
       <pubDate>Sat, 20 Apr 2013 15:25:02 +0200</pubDate>
-      
       <guid>https://janawa.de/posts/2013-04-hamburg-dungeon/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
