@@ -22,7 +22,7 @@ jobs:
 
     # build website
     - name: Build
-      run: hugo --verbose --minify
+      run: hugo --minify
     
     # Run HTML Proofer
     - uses: anishathalye/proof-html@v2.1.4
