@@ -4,7 +4,7 @@
     <title>Janawa e. V.</title>
     <link>https://janawa.de/</link>
     <description>Recent content on Janawa e. V.</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 07 Jul 2023 15:25:02 +0200</lastBuildDate>
     <atom:link href="https://janawa.de/index.xml" rel="self" type="application/rss+xml" />
@@ -13,80 +13,108 @@
       <link>https://janawa.de/posts/%C3%B6ffnungszeiten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/posts/%C3%B6ffnungszeiten/</guid>
-      <description> Montag: 13:30 - 18:30 Dienstag - Freitag: 13:30 - 19:00 </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Montag:                 13:30 - 18:30&lt;/li&gt;
+&lt;li&gt;Dienstag - Freitag:               13:30 - 19:00&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Anfahrt</title>
       <link>https://janawa.de/posts/ueber-den-verein/anfahrt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/posts/ueber-den-verein/anfahrt/</guid>
-      <description>Janawa e.V
-Schulstrasse 1
-25596 Wacken
-Tel:04827 / 998513
-janawa@wtnet.de</description>
+      <description>&lt;p&gt;Janawa e.V&lt;/p&gt;
+&lt;p&gt;Schulstrasse 1&lt;/p&gt;
+&lt;p&gt;25596 Wacken&lt;/p&gt;
+&lt;p&gt;Tel:04827 / 998513&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:janawa@wtnet.de&#34;&gt;janawa@wtnet.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Anfahrt&#34; loading=&#34;lazy&#34; src=&#34;https://janawa.de/images/anfahrt.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Über Uns</title>
       <link>https://janawa.de/posts/ueber-den-verein/%C3%BCber-uns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/posts/ueber-den-verein/%C3%BCber-uns/</guid>
-      <description>Im Laufe der letzten Jahre konnten wir immer neue Mitglieder und Freunde bei Janawa e.V. begrüßen und freuen uns noch heute über Zuwachs und steigende Mitgliederzahlen.
-Wir sind eine fröhliche Gemeinschaft, die Ihre Aufgaben mit dem nötigen Ernst durchführt und dennoch viel Spaß dabei hat. Es freut uns, dass aus den ersten Kids im Jugendraum, heute Vorstandsmidglieder geworden sind.
-Wir bieten an:
-PC Billard Tischkicker eine Sitzecke zum Entspannen Kochen Disco Ausflüge es können Hausaufgaben hier gemacht werden Ansprechpartner Anke Schmidt 04827 998513 janawa@wtnet.</description>
+      <description>&lt;p&gt;Im Laufe der letzten Jahre konnten wir immer neue Mitglieder und Freunde bei Janawa e.V. begrüßen und freuen uns noch heute über Zuwachs und steigende
+Mitgliederzahlen.&lt;/p&gt;
+&lt;p&gt;Wir sind eine fröhliche Gemeinschaft, die Ihre Aufgaben mit dem nötigen Ernst durchführt und dennoch viel Spaß dabei hat. Es freut uns, dass aus den ersten Kids im Jugendraum, heute Vorstandsmidglieder geworden sind.&lt;/p&gt;
+&lt;p&gt;Wir bieten an:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PC&lt;/li&gt;
+&lt;li&gt;Billard&lt;/li&gt;
+&lt;li&gt;Tischkicker&lt;/li&gt;
+&lt;li&gt;eine Sitzecke zum Entspannen&lt;/li&gt;
+&lt;li&gt;Kochen&lt;/li&gt;
+&lt;li&gt;Disco&lt;/li&gt;
+&lt;li&gt;Ausflüge&lt;/li&gt;
+&lt;li&gt;es können Hausaufgaben hier gemacht werden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ansprechpartner&#34;&gt;Ansprechpartner&lt;/h3&gt;
+&lt;figure class=&#34;float-right&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;../anke.jpg&#34; width=&#34;33%&#34;/&gt; &lt;figcaption&gt;
+            Anke Schmidt
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;04827 998513&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:janawa@wtnet.de&#34;&gt;janawa@wtnet.de&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Vorstand</title>
       <link>https://janawa.de/posts/ueber-den-verein/vorstand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/posts/ueber-den-verein/vorstand/</guid>
-      <description>1. Vorsitzender Antonio Jose Julia-Allen
-Bokelrehmer str. 35
-25596 Wacken
-a.allen@trinitas-trading.de
-2. Vorsitzender Patrick Jürgen Klawitter
-Hauptstrasse
-25596 Wacken</description>
+      <description>&lt;h2 id=&#34;1-vorsitzender&#34;&gt;1. Vorsitzender&lt;/h2&gt;
+&lt;p&gt;Antonio Jose Julia-Allen&lt;/p&gt;
+&lt;p&gt;Bokelrehmer str. 35&lt;/p&gt;
+&lt;p&gt;25596 Wacken&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:a.allen@trinitas-trading.de&#34;&gt;a.allen@trinitas-trading.de&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-vorsitzender&#34;&gt;2. Vorsitzender&lt;/h2&gt;
+&lt;p&gt;Patrick Jürgen Klawitter&lt;/p&gt;
+&lt;p&gt;Hauptstrasse&lt;/p&gt;
+&lt;p&gt;25596 Wacken&lt;/p&gt;</description>
     </item>
     <item>
       <title>Satzung</title>
       <link>https://janawa.de/posts/ueber-den-verein/satzung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/posts/ueber-den-verein/satzung/</guid>
-      <description>Sie interessieren sich für unsere Vereinssatzung? In Kürze können Sie sich an dieser Stelle das Dokument herunterladen.</description>
+      <description>&lt;p&gt;Sie interessieren sich für unsere Vereinssatzung? In Kürze können Sie sich an dieser Stelle das Dokument herunterladen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mitglied werden</title>
       <link>https://janawa.de/posts/ueber-den-verein/mitglied-werden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/posts/ueber-den-verein/mitglied-werden/</guid>
-      <description>Sie Interessieren sich für eine Mitgliedschaft in unserem Verein? Dann nehmen Sie Kontakt mit uns auf und informieren Sie sich über unsere Aufnahmebedingungen.
-Den Mitgliedsantrag können Sie uns unterschrieben zuschicken oder persönlich vorbei bringen.</description>
+      <description>&lt;p&gt;Sie Interessieren sich für eine Mitgliedschaft in unserem Verein? Dann nehmen Sie Kontakt mit uns auf und informieren Sie sich über unsere Aufnahmebedingungen.&lt;/p&gt;
+&lt;p&gt;Den &lt;a href=&#34;https://janawa.de/documents/Mitgliedsantrag.pdf&#34;&gt;Mitgliedsantrag&lt;/a&gt; können Sie uns unterschrieben zuschicken oder persönlich &lt;a href=&#34;../anfahrt&#34;&gt;vorbei bringen&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Janawa Kickerturnier 2023</title>
       <link>https://janawa.de/posts/2023-08-16-kickerturnier/</link>
       <pubDate>Fri, 07 Jul 2023 15:25:02 +0200</pubDate>
       <guid>https://janawa.de/posts/2023-08-16-kickerturnier/</guid>
-      <description>Am 16. August 2023 findet ab 14 Uhr ein Kickerturnier im Jugendraum statt.
-Wir freuen uns auf zahlreiche Mitspieler</description>
+      <description>&lt;p&gt;Am 16. August 2023 findet ab 14 Uhr ein Kickerturnier im Jugendraum statt.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns auf zahlreiche Mitspieler&lt;/p&gt;</description>
     </item>
     <item>
       <title>Urlaub Sommer 2023</title>
       <link>https://janawa.de/posts/2023-07-24-urlaub/</link>
       <pubDate>Fri, 07 Jul 2023 09:25:02 +0200</pubDate>
       <guid>https://janawa.de/posts/2023-07-24-urlaub/</guid>
-      <description>Zwischen dem 24. Juli und dem 13. August ist das Team vom Jugendraum im Urlaub, daher bleibt der Jugendraum in dieser Zeit geschlossen.
-In der Woche der Wiedereröffnung findet am 16. August ein Kickerturnier statt.</description>
+      <description>&lt;p&gt;Zwischen dem 24. Juli und dem 13. August ist das Team vom Jugendraum im Urlaub, daher bleibt der Jugendraum in dieser Zeit geschlossen.&lt;/p&gt;
+&lt;p&gt;In der Woche der Wiedereröffnung findet am 16. August ein &lt;a href=&#34;../2023-08-16-kickerturnier&#34;&gt;Kickerturnier&lt;/a&gt; statt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neue Webseite</title>
       <link>https://janawa.de/posts/2022-04-neue-webseite/</link>
       <pubDate>Wed, 06 Apr 2022 15:25:02 +0200</pubDate>
       <guid>https://janawa.de/posts/2022-04-neue-webseite/</guid>
-      <description>Die neue Webseite von Janawa wurde heute online gestellt.
-Anregungen könnt ihr gerne z. B. per Email an unseren Kontakt schicken.</description>
+      <description>&lt;p&gt;Die neue Webseite von Janawa wurde heute online gestellt.&lt;/p&gt;
+&lt;p&gt;Anregungen könnt ihr gerne z. B. per Email an unseren &lt;a href=&#34;https://janawa.de/kontakt&#34;&gt;Kontakt&lt;/a&gt; schicken.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aktueller Infoflyer</title>
@@ -107,14 +135,14 @@ Anregungen könnt ihr gerne z. B. per Email an unseren Kontakt schicken.</descri
       <link>https://janawa.de/posts/2013-09-hansapark/</link>
       <pubDate>Sat, 07 Sep 2013 15:25:02 +0200</pubDate>
       <guid>https://janawa.de/posts/2013-09-hansapark/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Bild 2&#34; loading=&#34;lazy&#34; src=&#34;https://janawa.de/posts/2013-09-hansapark_02.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Janawa-Stand auf dem W:O:A</title>
       <link>https://janawa.de/posts/2013-08-woa-stand/</link>
       <pubDate>Sat, 03 Aug 2013 15:25:02 +0200</pubDate>
       <guid>https://janawa.de/posts/2013-08-woa-stand/</guid>
-      <description> </description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Bild 2&#34; loading=&#34;lazy&#34; src=&#34;https://janawa.de/posts/2013-08-03-woa-stand_02.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schicke Shirts und neue Sofas: Buntes Programm im Jugendtreff</title>
@@ -135,33 +163,42 @@ Anregungen könnt ihr gerne z. B. per Email an unseren Kontakt schicken.</descri
       <link>https://janawa.de/posts/2013-03-04-shz-artikel/</link>
       <pubDate>Mon, 04 Mar 2013 15:25:02 +0200</pubDate>
       <guid>https://janawa.de/posts/2013-03-04-shz-artikel/</guid>
-      <description>In der Norddeutschen Rundschau ist der Artikel Im Janawa ist wieder Leben erschienen.</description>
+      <description>&lt;p&gt;In der Norddeutschen Rundschau ist der Artikel &lt;a href=&#34;https://www.shz.de/lokales/norddeutsche-rundschau/im-janawa-ist-wieder-leben-id7106.html&#34;&gt;Im Janawa ist wieder Leben&lt;/a&gt; erschienen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Datenschutzerklärung</title>
       <link>https://janawa.de/datenschutz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/datenschutz/</guid>
-      <description>Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
-IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
-Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art.</description>
+      <description>&lt;p&gt;Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:&lt;/p&gt;
+&lt;p&gt;IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header),
+Datum und Uhrzeit der Anfrage,
+Zeitzonendifferenz zur Greenwich Mean Time,
+Inhalt der Anforderung, HTTP-Statuscode,
+übertragene Datenmenge, Website,
+von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.&lt;/p&gt;
+&lt;p&gt;Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten.
+Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://janawa.de/impresssum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://janawa.de/impresssum/</guid>
-      <description>Janawa e. V. Schulstr. 1
-25596 Wacken
-Telefon: 0171 4509545
-E-Mail: janawa@wtnet.de
-1. Vorsitzender Antonio Jose Julia-Allen
-Bokelrehmer Str. 35
-25596 Wacken
-a.allen@trinitas-trading.de
-2. Vorsitzender Patrick Jürgen Klawitter
-Hauptstrasse
-25596 Wacken</description>
+      <description>&lt;h2 id=&#34;janawa-e-v&#34;&gt;Janawa e. V.&lt;/h2&gt;
+&lt;p&gt;Schulstr. 1&lt;/p&gt;
+&lt;p&gt;25596 Wacken&lt;/p&gt;
+&lt;p&gt;Telefon: 0171 4509545&lt;/p&gt;
+&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:janawa@wtnet.de&#34;&gt;janawa@wtnet.de&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1-vorsitzender&#34;&gt;1. Vorsitzender&lt;/h2&gt;
+&lt;p&gt;Antonio Jose Julia-Allen&lt;/p&gt;
+&lt;p&gt;Bokelrehmer Str. 35&lt;/p&gt;
+&lt;p&gt;25596 Wacken&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:a.allen@trinitas-trading.de&#34;&gt;a.allen@trinitas-trading.de&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-vorsitzender&#34;&gt;2. Vorsitzender&lt;/h2&gt;
+&lt;p&gt;Patrick Jürgen Klawitter&lt;/p&gt;
+&lt;p&gt;Hauptstrasse&lt;/p&gt;
+&lt;p&gt;25596 Wacken&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
