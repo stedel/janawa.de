@@ -29,9 +29,9 @@ Bokelrehmer Str. 35
 
 ## 2. Vorsitzender
 
-Patrick Jürgen Klawitter
+Lajos Nier
 
-Hauptstrasse
+Bokhorstdoor 4
 
 25596 Wacken
 
