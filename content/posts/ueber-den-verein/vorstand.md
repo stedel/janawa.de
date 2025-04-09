@@ -16,13 +16,13 @@ Bokelrehmer str. 35
 
 25596 Wacken
 
-a.allen@trinitas-trading.de
+<a.allen@trinitas-trading.de>
 
 ## 2. Vorsitzender
 
-Patrick Jürgen Klawitter
+Lajos Nier
 
-Hauptstrasse
+Bokhorstdoor 4
 
 25596 Wacken
 
